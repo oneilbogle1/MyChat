@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "370847748708",
+    "firebase_url": "https://mychat-dc7ca.firebaseio.com",
+    "project_id": "mychat-dc7ca",
+    "storage_bucket": "mychat-dc7ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370847748708:android:71c41f18b02de163",
+        "android_client_info": {
+          "package_name": "com.example.oneilbogle.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370847748708-n9leg6sk5uq1mnqqsdi24mhs7h468sse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oneilbogle.mychat",
+            "certificate_hash": "bea31acab7d8f21a5e5071eb119759ee40d36805"
+          }
+        },
+        {
+          "client_id": "370847748708-oaruh4fr3q1nv04gmoqmpjdq4gmf9qi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyA0FhyMxHoHvbBMYyXW6xiiTRL7-8zEM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370847748708-oaruh4fr3q1nv04gmoqmpjdq4gmf9qi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
